@@ -1,0 +1,181 @@
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+
+(process:1167): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Gtk-Message: Failed to load module "unity-gtk-module"
+Gtk-Message: Failed to load module "canberra-gtk-module"
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+leafpad: Fatal IO error 11 (Resource temporarily unavailable) on X server localhost:10.0.
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 22, in color_test
+    for dutyCycle in range(0, 101, step):
+ValueError: range() step argument must not be zero
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 22, in color_test
+    for dutyCycle in range(0, 101, step):
+ValueError: range() step argument must not be zero
+
+
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 22, in color_test
+    for dutyCycle in range(0, 101, step):
+ValueError: range() step argument must not be zero
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 22, in color_test
+    for dutyCycle in range(0, 101, step):
+ValueError: range() step argument must not be zero
+
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 22, in color_test
+    for dutyCycle in range(0, 101, step):
+ValueError: range() step argument must not be zero
+
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 22, in color_test
+    for dutyCycle in range(0, 101, step):
+ValueError: range() step argument must not be zero
+
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 22, in color_test
+    for dutyCycle in range(0, 101, step):
+ValueError: range() step argument must not be zero
+
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 22, in color_test
+    for dutyCycle in range(0, 101, step):
+ValueError: range() step argument must not be zero
+
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 19, in color_test
+    p = GPIO.PWM(channel, frequency)
+ValueError: frequency must be greater than 0.0
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 19, in color_test
+    p = GPIO.PWM(channel, frequency)
+ValueError: frequency must be greater than 0.0
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "main.py", line 19, in color_test
+    p = GPIO.PWM(channel, frequency)
+ValueError: frequency must be greater than 0.0
+
+
+Press ^C (control-C) to exit the program.
+
+main.py:15: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(PINS, GPIO.OUT, initial=GPIO.LOW)

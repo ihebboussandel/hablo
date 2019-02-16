@@ -1,0 +1,6 @@
+Wed Sep 26 00:01:26 2018 [ffm @ 0x1722300]Using AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+Wed Sep 26 00:01:26 2018 FFserver started.
+Wed Sep 26 00:01:26 2018 10.54.234.219 - - [GET] "/feed1.ffm HTTP/1.1" 200 4175
+Wed Sep 26 00:05:22 2018 10.54.234.88 - - [GET] "/test.mp3 HTTP/1.1" 200 11393
+Wed Sep 26 00:05:22 2018 10.54.234.88 - - [GET] "/test.mp3 HTTP/1.1" 200 15154
+Wed Sep 26 00:06:29 2018 10.54.234.88 - - [GET] "/test.mp3 HTTP/1.1" 200 1073009
